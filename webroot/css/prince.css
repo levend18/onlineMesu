@@ -1,0 +1,38 @@
+/*! Copyright 2014-2016 SoftCafe, LLC. Use of any code on this site or the imenupro app is forbidden. */
+
+@page {
+  size: 8.5in 11in;
+  margin: 0;
+}
+
+.strike {
+	text-decoration: line-through !important;
+}
+.under {
+	text-decoration: underline !important;
+}
+.bolder {
+	font-weight: 700 !important;
+}
+.italicer {
+	font-style: italic !important;
+}
+
+
+.text-pre { 
+	white-space: pre;
+}
+
+.foodsym, .foodsym1, .foodsym2 {
+	font-family: "SoftCafe Sym SC";
+	font-weight: 400;		
+	font-style: normal;			
+	font-variant: normal;		
+	all-caps: no;				
+	text-decoration: none;	
+	text-shadow: none;
+	letter-spacing: 0px;
+	stroke: none; 
+	stroke-width: none;	 	
+}
+
